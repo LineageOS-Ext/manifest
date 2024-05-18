@@ -11,7 +11,7 @@
   <remote  name="Ext"
            fetch="https://github.com/LineageOS-Ext" />
 
-  <remote  name="blaze"  fetch="https://github.com/NotBlazeee28" />
+  <remote  name="blaze"  fetch="https://github.com/Blaze-Forest" />
 
   <remote  name="clang" fetch="https://gitlab.com/Joker-V2" />
 
