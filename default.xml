@@ -13,6 +13,8 @@
 
   <remote  name="blaze"  fetch="https://github.com/Blaze-Forest" />
 
+  <remote  name="blaze-gitea"  fetch="https://gitea.com/NotBlazeee28" />
+
   <remote  name="clang" fetch="https://gitlab.com/Joker-V2" />
 
   <remote  name="aosp"
